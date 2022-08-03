@@ -1,6 +1,6 @@
- <img align="center" alt="Danilla" width="1000" src="banner1.jpg">
+ <img align="center" alt="Danilla" width="100" src="banner1.jpg">
  
-<h1 align="center">Hi 👋, I'm Danilla Nnatube</h1>
+<h1 align="center">Hi 👋, I'm Daniella Nnatube</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
  <img align="center" alt="" width="100" src="">
