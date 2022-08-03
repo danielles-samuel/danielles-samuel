@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniella Nnatube</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
- <img align="center" alt="" width="100" src="">
+ <img align="center" alt="" width="500" src="">
 
 <p align="left"> <img src="https://github.com/danielles-samuel/danielles-samuel.git" alt="daniintech" /> </p>
 
