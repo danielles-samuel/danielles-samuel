@@ -6,9 +6,7 @@
  <img align="center" alt="" width="500" src="">
 
 <p align="left"> <img src="https://github.com/danielles-samuel/danielles-samuel.git" alt="daniintech" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chisomNnatube" target="blank"><img src="https://img.shields.io/twitter/follow/dheklan1?logo=twitter&style=for-the-badge" alt="dheklan1" /></a></p>
-
+ 
 - 🔭 I’m currently working on **personal Projects**
 
 - 🌱 I’m currently learning **React, Php, tailwind CSS,**
